@@ -1,6 +1,21 @@
 # Wise Product Analytics — Walid Bayoud
-
 An end-to-end data analysis project using SQL and Python to examine customer conversion, feature adoption, and asset investment behavior. Includes funnel construction, segmentation, and time-series forecasting.
+
+## Project Context
+This analysis was completed as part of a product analytics case study. 
+All insights and code represent my independent work and analytical approach.
+
+## Data & Confidentiality Notice
+
+The dataset in this repository has been **replaced with synthetic dummy data** to respect confidentiality agreements.
+The dummy data maintains the same structure, scale, and statistical properties as the original dataset to demonstrate analytical methodology.
+
+**Original Analysis Scope:**
+- 10,000+ user profiles analyzed
+- £19.37M+ in asset holdings forecasted
+- Transaction and conversion metrics across multiple user segments
+
+All code, insights, and visualizations reflect the analytical approach applied to the original dataset.
 
 ## Overview
 Analyzed **10,000+ Wise user profiles** to optimize asset adoption funnel and forecast growth opportunities. Key findings include:
